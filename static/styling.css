@@ -71,4 +71,5 @@ footer{
   text-indent: 35px;
   padding-top: 1%;
   width:50%;
+  overflow:scroll;
 }
